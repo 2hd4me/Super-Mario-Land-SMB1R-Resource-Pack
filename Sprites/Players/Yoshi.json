@@ -1,0 +1,47 @@
+{
+	"animations": {
+		"Blue": {
+			"frames": [
+				[0, 0, 32, 48],
+				[32, 0, 32, 48],
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Green": {
+			"frames": [
+				[0, 0, 32, 48],
+				[32, 0, 32, 48],
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Red": {
+			"frames": [
+				[0, 0, 32, 48],
+				[32, 0, 32, 48],
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Yellow": {
+			"frames": [
+				[0, 0, 32, 48],
+				[32, 0, 32, 48],
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "Yoshi.png",
+			"rect": [
+				0.0,
+				0.0,
+				64.0,
+				48.0
+			]
+		}
+	}
+}

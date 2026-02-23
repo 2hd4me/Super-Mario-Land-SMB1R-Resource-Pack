@@ -1,0 +1,163 @@
+{
+	"animations": {
+		"Idle": {
+			"frames": [[0, 0, 48, 48]],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Emote": {
+			"frames": [
+				[0, 0, 48, 48],
+				[48, 0, 48, 48]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"SMB1": {
+			"choices": [
+				{"source": "ToadNPC.png",
+				"rect": [0, 0, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 48, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 96, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 144, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 192, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 240, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 288, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 336, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 384, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 432, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 480, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 528, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 576, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 624, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 672, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 720, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 768, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 816, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 864, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 912, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 960, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 1008, 96, 48]},
+			]
+		},
+		"SMB1": {
+			"World1": {
+			"choices": [
+				{"source": "ToadNPC.png",
+				"rect": [0, 0, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 48, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 96, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 144, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 192, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 240, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 288, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 336, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 384, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 432, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 480, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 528, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 576, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 624, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 672, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 720, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 768, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 816, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 864, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 912, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 960, 96, 48]},
+				{"source": "ToadNPC.png",
+				"rect": [0, 1008, 96, 48]},
+			]
+			},
+			"World8": {
+				"source": "ToadNPC.png",
+				"rect": [1000, 0, 0, 0]
+			},
+			"World13": {
+				"source": "ToadNPC.png",
+				"rect": [1000, 0, 0, 0]
+			},
+		},
+		"SMBANN": {
+			"World1": {
+				"source": "DiscoNPCs.png",
+				"rect": [0, 0, 16, 32]
+			},
+			"World2": {
+				"source": "DiscoNPCs.png",
+				"rect": [16, 0, 16, 32]
+			},
+			"World3": {
+				"source": "DiscoNPCs.png",
+				"rect": [32, 0, 16, 32]
+			},
+			"World4": {
+				"source": "DiscoNPCs.png",
+				"rect": [48, 0, 16, 32]
+			},
+			"World5": {
+				"source": "DiscoNPCs.png",
+				"rect": [64, 0, 16, 32]
+			},
+			"World6": {
+				"source": "DiscoNPCs.png",
+				"rect": [80, 0, 16, 32]
+			},
+			"World7": {
+				"choices": [
+						{"source": "DiscoNPCs.png",
+						"rect": [96, 0, 16, 32]},
+						{"source": "DiscoNPCs.png",
+						"rect": [112, 0, 16, 32]}
+				]
+			},
+			"World8": {
+				"source": "DiscoNPCs.png",
+				"rect": [0, 0, 16, 32]
+			}
+		}
+	}
+}

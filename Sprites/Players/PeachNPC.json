@@ -1,0 +1,45 @@
+{
+	"variations": {
+		"SMB1": {
+			"World1": {"source": "Peach.png", "rect": [0, 0, 32, 34]},
+			"World-1": {"source": "Peach.png", "rect": [0, -1, 32, 35]}
+		},
+		"SMBLL": {
+			"World1": {"source": "Peach.png", "rect": [0, 0, 32, 34]},
+			"World8": {
+				"Character:Mario": {	
+					"source": "EndingCutscene.png", "rect": [0, 0, 2048, 400]
+				},
+				"Character:Luigi": {	
+					"source": "EndingCutscene.png", "rect": [0, 400, 2048, 400]
+				},
+				"Character:Toad": {	
+					"source": "EndingCutscene.png", "rect": [0, 800, 2048, 400]
+				},
+				"Character:Toadette": {	
+					"source": "EndingCutscene.png", "rect": [0, 1200, 2048, 400]
+				},
+				"Character:default": {	
+					"source": "EndingCutscene.png", "rect": [0, 1600, 2048, 400]
+				},
+			},
+			"World13": {
+				"Character:Mario": {	
+					"source": "EndingCutscene.png", "rect": [0, 0, 2048, 400]
+				},
+				"Character:Luigi": {	
+					"source": "EndingCutscene.png", "rect": [0, 400, 2048, 400]
+				},
+				"Character:Toad": {	
+					"source": "EndingCutscene.png", "rect": [0, 800, 2048, 400]
+				},
+				"Character:Toadette": {	
+					"source": "EndingCutscene.png", "rect": [0, 120, 2048, 400]
+				},
+				"Character:default": {	
+					"source": "EndingCutscene.png", "rect": [0, 120, 2048, 400]
+				},
+			},
+		}
+	}
+}
