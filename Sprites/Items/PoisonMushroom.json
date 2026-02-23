@@ -1,0 +1,16 @@
+{
+	"variations": {
+		"default": {
+			"config:Poison Mushroom": {
+				"Obvious": {			
+					"source": "PoisonMushroom.png",
+					"rect": [0, 0, 16, 18]
+				}, 
+				"Sneaky": {			
+					"source": "PoisonMushroom.png",
+					"rect": [16, 0, 16, 18]
+				}
+			}
+		}
+	}
+}

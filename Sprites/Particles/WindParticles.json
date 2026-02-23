@@ -1,0 +1,11 @@
+{
+	"variations": {
+		"default": {"source": "Leaves.png"},
+		"Desert": {"source": "DotWind.png"},
+		"Snow": {"link": "Desert"},
+		"Underwater": {"source": "WaterWind.png"},
+		"CastleWater": {"link": "Underwater"},
+		"Castle": {"link": "Desert"},
+		"Volcano": {"link": "Desert"}
+	}
+}

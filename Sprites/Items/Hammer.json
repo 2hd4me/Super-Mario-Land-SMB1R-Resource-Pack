@@ -1,0 +1,10 @@
+{
+	"properties": {
+		"play_sfx": false
+	},
+	"variations": {
+		"default": {
+			"source": "Hammer.png"
+		}
+	}
+}

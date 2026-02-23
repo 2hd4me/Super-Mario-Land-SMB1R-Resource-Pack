@@ -1,0 +1,39 @@
+{
+	"animations": {
+		"default": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					32.0,
+					32.0
+				],
+				[
+					32.0,
+					0.0,
+					32.0,
+					32.0
+				],
+				[
+					0.0,
+					0.0,
+					1.0,
+					1.0
+				]
+			],
+			"speed": 5.0,
+			"loop": false
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "LakituCloudBurst.png",
+			"rect": [
+				0.0,
+				0.0,
+				64.0,
+				32.0
+			]
+		}
+	}
+}
