@@ -1,0 +1,29 @@
+{
+	"animations": {
+		"default": {
+			"frames": [[0, 0, 16, 16]],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"SMB1": {
+				"source": "Overworld.png",
+				"rect": [0, 64, 16, 16]
+			},
+			"SMBLL": {
+				"source": "OverworldLL.png",
+				"rect": [0, 64, 16, 16]
+			},
+			"SMBS": {
+				"source": "Overworld.png",
+				"rect": [0, 64, 16, 16]
+			},
+			"SMBANN": {
+				"source": "OverworldLL.png",
+				"rect": [0, 64, 16, 16]
+			},
+		}
+	}
+}

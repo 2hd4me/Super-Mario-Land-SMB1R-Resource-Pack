@@ -1,0 +1,11 @@
+{
+	"variations": {
+		"default": {
+			"config:Animated Liquids": {
+				"Static": {"source": "Liquids.png"}, 
+				"Simple": {"source": "LiquidsSimple.png"},
+				"Fancy": {"source": "LiquidsFancy.png"}
+			}
+		}
+	}
+}

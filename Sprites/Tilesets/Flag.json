@@ -1,0 +1,8 @@
+{
+	"variations": {
+		"default": {
+			"source": "Flag.png",
+			"rect": [0, 0, 32, 16]
+		}
+	}
+}
