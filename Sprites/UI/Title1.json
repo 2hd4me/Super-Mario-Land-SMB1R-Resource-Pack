@@ -1,0 +1,92 @@
+{
+	"variations": {
+		"SMB1": {
+			"Character:default": {
+				"default": {"source": "Title1.png", "rect": [0, -56, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+			"Character:Mario": {
+				"default": {"source": "Title1.png", "rect": [0, 200, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+			"Character:Luigi": {
+				"default": {"source": "Title1.png", "rect": [0, 456, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+			"Character:Toad": {
+				"default": {"source": "Title1.png", "rect": [0, 712, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+			"Character:Toadette": {
+				"default": {"source": "Title1.png", "rect": [0, 968, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+		},
+		"SMBS": {
+			"Character:default": {
+				"default": {"source": "Title1.png", "rect": [576, -56, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+			"Character:Mario": {
+				"default": {"source": "Title1.png", "rect": [576, 200, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+			"Character:Luigi": {
+				"default": {"source": "Title1.png", "rect": [576, 456, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+			"Character:Toad": {
+				"default": {"source": "Title1.png", "rect": [576, 712, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+			"Character:Toadette": {
+				"default": {"source": "Title1.png", "rect": [576, 968, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+		},
+		"SMBLL": {
+			"Character:default": {
+				"default": {"source": "Title1.png", "rect": [288, -56, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+			"Character:Mario": {
+				"default": {"source": "Title1.png", "rect": [288, 200, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+			"Character:Luigi": {
+				"default": {"source": "Title1.png", "rect": [288, 456, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+			"Character:Toad": {
+				"default": {"source": "Title1.png", "rect": [288, 712, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+			"Character:Toadette": {
+				"default": {"source": "Title1.png", "rect": [288, 968, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+		},
+		"SMBANN": {
+			"Character:default": {
+				"default": {"source": "Title1.png", "rect": [864, -56, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+			"Character:Mario": {
+				"default": {"source": "Title1.png", "rect": [864, 200, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+			"Character:Luigi": {
+				"default": {"source": "Title1.png", "rect": [864, 456, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+			"Character:Toad": {
+				"default": {"source": "Title1.png", "rect": [864, 712, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+			"Character:Toadette": {
+				"default": {"source": "Title1.png", "rect": [864, 968, 288, 208], 
+				"properties": {"star_offset_x": 0, "star_offset_y": -0}},
+			},
+		}
+	}
+}
