@@ -1,0 +1,22 @@
+{
+	"animations": {
+		"Idle": {
+			"frames": [
+				[0, 0, 48, 48]
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Bounce": {
+			"frames": [
+				[0, 0, 48, 48],
+				[48, 0, 48, 48],
+			],
+			"speed": 15.0,
+			"loop": false
+		}
+	},
+	"variations": {
+		"default": {"source": "Bumper.png"}
+	}
+}
