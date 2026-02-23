@@ -1,0 +1,28 @@
+Due to the nature of this Resource Pack, 
+there are some settings I would recommended 
+to get the best experience.
+
+All settings not mentioned here can 
+be whatever you would like.
+
+Some options are only recommended, 
+but others can majorly effect the quality, 
+and will thus be labeled as "required".
+(Technically not required, but very much 
+recommended other the other stuff.)
+
+<Video>
+Rendering:	Pixelated	(recommended)
+Scaling:	Integer		(recommended)
+Drop Shadows:	Off		(recommended)
+
+<Audio>
+Menu BGM:	Off		(recommended, I have not replaced this music yet)
+
+<Visuals>
+Parallax:	None		(recommended, Backgrounds were made with no parallax in mind)
+BG Particles:	Off		(required, these use base game sprites and look super out of place)
+HUD Style:	Modern		(required, this classic HUD style does not work with this pack)
+Rainbow Effect:	Classic		(required, modern looks very out of place)
+Text Shadows:	Off		(required, the shadows do now work well with how I have the text set up)
+Extra Effects:	Off		(required, these use base game sprites and look super out of place)

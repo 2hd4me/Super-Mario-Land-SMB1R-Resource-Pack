@@ -1,0 +1,34 @@
+{
+	"options": {
+		"Fire Appearance": "Colors + Feather",
+		"Superball Appearance": "Back Cap",
+		"Animated Liquids": "Fancy",
+		"Poison Mushroom": "Obvious",
+		"Background Objects": "On"
+	},
+	"value_keys": {
+		"Fire Appearance": [
+			"Colors + Feather",
+			"Colors Only",
+			"Feather Only",
+			"No Change"
+		],
+		"Superball Appearance": [
+			"Back Cap",
+			"No Change"
+		],
+		"Animated Liquids": [
+			"Static",
+			"Simple",
+			"Fancy"
+		],
+		"Poison Mushroom": [
+			"Obvious",
+			"Sneaky"
+		],
+		"Background Objects": [
+			"On",
+			"Off"
+		]
+	}
+}
