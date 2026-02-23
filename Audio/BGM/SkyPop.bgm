@@ -1,0 +1,10 @@
+{
+    "Normal": {
+        "source": "SkyPop.mp3",
+        "loop": 1.494
+    },
+    "Hurry": {
+        "source": "SkyPopHurry.mp3",
+        "loop": 0.985
+    }
+}
