@@ -1,0 +1,34 @@
+{
+	"animations": {
+		"Idle": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					48.0,
+					48.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Throw": {
+			"frames": [
+				[
+					48.0,
+					0.0,
+					48.0,
+					48.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "Lakitu.png",
+			"rect": [0, 0, 96, 48]
+		}
+	}
+}

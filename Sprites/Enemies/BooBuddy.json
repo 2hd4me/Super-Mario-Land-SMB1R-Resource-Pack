@@ -1,0 +1,18 @@
+{
+	"animations": {
+		"default": {
+			"frames": [[0, 0, 32, 32], [32, 0, 32, 32]],
+			"speed": 10.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"choices": [
+				{"source": "BooBuddy.png", "rect": [0, 0, 64, 32]},
+				{"source": "BooBuddy.png", "rect": [64, 0, 64, 32]},
+				{"source": "BooBuddy.png", "rect": [128, 0, 64, 32]}
+			]
+		}
+	}
+}

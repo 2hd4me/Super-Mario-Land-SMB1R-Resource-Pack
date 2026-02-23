@@ -1,0 +1,46 @@
+{
+	"animations": {
+		"Hammer": {
+			"frames": [
+				[
+					32.0,
+					5.0,
+					16.0,
+					29.0
+				],
+				[
+					48.0,
+					5.0,
+					16.0,
+					29.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Idle": {
+			"frames": [
+				[
+					0.0,
+					5.0,
+					16.0,
+					29.0
+				],
+				[
+					16.0,
+					5.0,
+					16.0,
+					29.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "HammerBro.png",
+			"rect": [0, 0, 64, 32]
+		}
+	}
+}

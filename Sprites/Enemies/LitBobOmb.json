@@ -1,0 +1,40 @@
+{
+	"animations": {
+		"Hit": {
+			"frames": [
+				[
+					64.0,
+					0.0,
+					32.0,
+					18.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Walk": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					32.0,
+					18.0
+				],
+				[
+					32.0,
+					0.0,
+					32.0,
+					18.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "BobOmb.png",
+			"rect": [96, 0, 96, 18]
+		}
+	}
+}
