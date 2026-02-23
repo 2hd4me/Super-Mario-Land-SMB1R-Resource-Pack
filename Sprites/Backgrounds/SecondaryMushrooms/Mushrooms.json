@@ -1,0 +1,14 @@
+{
+	"properties": {
+		"can_mushroom_tint": false
+	},
+	"variations": {
+		"default": {"source": "Mushrooms.png"},
+		"Snow": {"source": "SnowMushrooms.png"},
+		"Beach": {"source": "BeachMushrooms.png"},
+		"Airship": {"source": "AirshipMushrooms.png"},
+		"Pipeland": {"source": "AirshipMushrooms.png"},
+		"Underwater": {"source": "WaterMushrooms.png"},
+		"CastleWater": {"source": "WaterMushrooms.png"},
+	}
+}

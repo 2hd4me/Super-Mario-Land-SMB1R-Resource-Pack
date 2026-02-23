@@ -1,0 +1,7 @@
+{
+	"variations": {
+		"default": {"source": "Bush.png"},
+		"Castle": {"source": "CastleBush.png"},
+		"CastleWater": {"source": "CastleWaterBush.png"},
+	}
+}

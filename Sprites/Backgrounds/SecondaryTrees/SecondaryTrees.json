@@ -1,0 +1,22 @@
+{
+	"properties": {
+		"can_tree_tint": false
+	},
+	"variations": {
+		"default": {"source": "Trees.png"},
+		"Snow": {"source": "SnowTrees.png"},
+		"Desert": {"source": "DesertTrees.png"},
+		"Beach": {"source": "DesertTrees.png"},
+		"Underground": {"source": "DesertTrees.png"},
+		"Sky": {"source": "DesertTrees.png"},
+		"Volcano": {"source": "DesertTrees.png"},
+		"Underwater": {"source": "WaterTrees.png"},
+		"Bonus": {"source": "WaterTrees.png"},
+		"GhostHouse": {"source": "WaterTrees.png"},
+		"Pipeland": {"source": "WaterTrees.png"},
+		"Space": {"source": "WaterTrees.png"},
+		"Castle": {"source": "CastleTrees.png"},
+		"CastleWater": {"source": "CastleTrees.png"},
+		"Airship": {"source": "CastleTrees.png"},
+	},
+}

@@ -1,0 +1,87 @@
+{
+	"properties": {
+		"sky_scroll_speed": 0,
+		"top_edge_enabled": false
+	},
+	"variations": {
+		 "Day": {
+			"default": {
+				"SMB1": {"source": "DaySky.png"},
+				"SMBLL": {"source": "DaySkyLL.png"},
+			},
+			"Jungle": {"source": "JungleSky.png"},
+			"Underwater": {"source": "WaterSky.png"},
+			"CastleWater": {"source": "WaterSky.png"},
+			"Beach": {
+				"SMB1": {"source": "BeachSky.png"},
+				"SMBLL": {"source": "BeachSkyLL.png"},
+			},
+			"Skyland": {
+				"SMB1": {"source": "SkySky.png"},
+				"SMBLL": {"source": "SkySkyLL.png"},
+			},
+			"Snow": {
+				"SMB1": {"source": "SkySky.png"},
+				"SMBLL": {"source": "SkySkyLL.png"},
+			},
+			"Autumn": {
+				"SMB1": {"source": "AutumnSky.png"},
+				"SMBLL": {"source": "AutumnSkyLL.png"},
+			},
+			"Castle": {
+				"SMB1": {"source": "CastleSky.png"},
+				"SMBLL": {"source": "CastleSkyLL.png"},
+			},
+			"Volcano": {"source": "EmptySky.png"},
+			"Underground": {"source": "BlankSky.png"},
+			"Bonus": {"source": "BlankSky.png"},
+			"Space": {
+				"source": "NightStars.png",
+				"properties": {"sky_scroll_speed": 0},
+				"animations": {"default": {
+					"frames": [[0, 0, 512, 512], [512, 0, 512, 512]],
+					"speed": 5.0,
+					"loop": true
+				}}
+			}
+		},
+		"Night": {
+			"default": {
+				"source": "NightStars.png",
+				"properties": {"sky_scroll_speed": 0},
+				"animations": {"default": {
+					"frames": [[0, 0, 512, 512], [512, 0, 512, 512]],
+					"speed": 5.0,
+					"loop": true
+				}}
+			},
+			"Underwater": {
+				"source": "WaterStars.png",
+				"properties": {"sky_scroll_speed": 0},
+				"animations": {"default": {
+					"frames": [[0, 0, 512, 512], [512, 0, 512, 512]],
+					"speed": 5.0,
+					"loop": true
+				}}
+			},
+			"CastleWater": {
+				"source": "WaterStars.png",
+				"properties": {"sky_scroll_speed": 0},
+				"animations": {"default": {
+					"frames": [[0, 0, 512, 512], [512, 0, 512, 512]],
+					"speed": 5.0,
+					"loop": true
+				}}
+			},
+			"Beach": {
+				"source": "BeachStars.png",
+				"properties": {"sky_scroll_speed": 0},
+				"animations": {"default": {
+					"frames": [[0, 0, 512, 512], [512, 0, 512, 512]],
+					"speed": 5.0,
+					"loop": true
+				}}
+			},
+		}
+	}
+}
