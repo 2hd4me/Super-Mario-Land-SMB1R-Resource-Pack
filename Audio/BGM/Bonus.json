@@ -1,0 +1,6 @@
+{
+	"variations": {
+		"default": { "source": "Bonus.bgm" },
+		"Underground": { "source": "CoinCave.bgm" }
+	}
+}
