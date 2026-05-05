@@ -1,0 +1,14 @@
+{
+	"animations": {
+		"default": {
+			"frames": [
+				[0, 0, 32, 32]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {"source": "OneWayPanel.png"}
+	}
+}
